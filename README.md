@@ -1,0 +1,2 @@
+easy_battery_calibration_by_eladkarako
+Edify structure, but using a shell script instead. mounting /data and deleting /data/system/batterystats.bin - after that is done turn off your device without booting into system, change to 100%, with addition of an half-an-hour afterwards, remove charger and boot into system, use without charging until turns off, (second time) while off charge to 100% remove charger, boot system use until shutdown, battery statistics should be properly calibrated. you can at will and charge while on.

@@ -1,0 +1,9 @@
+* text eol=lf
+
+*.gitattributes text
+
+.gitignore text
+
+*.md text
+
+*.zip binary
